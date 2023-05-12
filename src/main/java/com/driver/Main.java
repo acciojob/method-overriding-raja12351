@@ -16,7 +16,7 @@ public class Main {
     public static void main(String[] args) {
         A objectA = new A();
         B objectB = new B();
-        System.out.println(objectA.meth());
-        System.out.println(objectB.meth());
+//        System.out.println(objectA.meth());
+//        System.out.println(objectB.meth());
     }
 }
